@@ -96,4 +96,4 @@ matplotlib
 
 Avellaneda Calderón, A. (2026). *Estudio sobre técnicas de asimilación de
 observaciones en resultados de modelos meteorológicos.* BSc Thesis,
-Universidad Complutense de Madrid. [Full PDF](thesis/FTA36_Avellaneda_Calderon_Alejandro.pdf)
+Universidad Complutense de Madrid. [Full PDF](Data_assimilation_Avellaneda.pdf)
